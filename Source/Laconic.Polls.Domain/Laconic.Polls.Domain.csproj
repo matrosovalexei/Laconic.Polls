@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\IDataContext.cs" />
+    <Compile Include="Data\IDataSet.cs" />
     <Compile Include="Entities\Entity.cs" />
     <Compile Include="Entities\Option.cs" />
     <Compile Include="Entities\Poll.cs" />
